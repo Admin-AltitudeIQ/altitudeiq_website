@@ -60,6 +60,7 @@ body {
     background-repeat: no-repeat;
     /* Fallback gradient if no image is provided */
     background-color: #e8e8e8;
+    filter: grayscale(100%) contrast(1.2);
 }
 
 .hero-overlay {
@@ -143,6 +144,7 @@ body {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-color: #d8d8d8;
+    filter: grayscale(100%) contrast(1.2);
 }
 
 .pillars-overlay {
